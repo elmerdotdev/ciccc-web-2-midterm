@@ -26,7 +26,7 @@ You can create more pages but your movie website should have at least these:
 - **Home** - Your homepage should display the trending movies and TV shows of the day.
 - **About** - Information about your movie website.
 
-## API Endpoints
+## API Endpoints 🤖
 
 Below are some of the endpoints you might use on the website. You are free to use more.
 
