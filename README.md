@@ -23,7 +23,7 @@ You can create more features but your movie website should have at least these:
 
 You can create more pages but your movie website should have at least these:
 
-- **Homepage** - Your homepage should display trending movies and TV shows of the day.
+- **Home** - Your homepage should display trending movies and TV shows of the day.
 - **About** - Information about your movie website.
 
 ## Presentation 📽️
