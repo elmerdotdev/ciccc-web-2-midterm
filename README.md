@@ -15,15 +15,15 @@
 
 You can create more features but your movie website should have at least these:
 
-- The website must be responsive.
-- The website should have a dark and light mode which the user can switch between by clicking on a button or icon.
-- The user should be able to search for movies/tv shows. You don't need to have a separate page to show the results. You can show it on the homepage depending on your design.
+- **Responsive** - The website must be responsive and mobile-friendly.
+- **Dark/Light Mode** - The website should have a dark and light mode which the user can switch between by clicking on a button or icon.
+- **Search** - The user should be able to search for movies/tv shows. You don't need to have a separate page to show the results. You can show it on the homepage depending on your design.
 
 ## Pages 📄
 
 You can create more pages but your movie website should have at least these:
 
-- **Homepage** - Your homepage should display trending movies and TV shows of the day. There should also be
+- **Homepage** - Your homepage should display trending movies and TV shows of the day.
 - **About** - Information about your movie website.
 
 ## Presentation 📽️
