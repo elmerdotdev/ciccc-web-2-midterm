@@ -2,7 +2,7 @@
 
 **Goal:** Design and build a movie website app where it displays the trending movies and TV series of the day. The website should also include a search bar which the user can use to search.
 
-## Instructions
+## Instructions ✔️
 
 1. Clone the repository to your local machine.
 2. Create the necessary branches for development such as `dev`. Do not work on the `main` branch.
@@ -11,7 +11,7 @@
 5. You can use different libraries to build your project. This includes jQuery, carousels, sliders, or for those who want to use React, you can!
 6. Commit and push your changes. Before the presentation day, make sure to create a pull request to the `main` branch.
 
-## Features
+## Features 💻
 
 You can create more features but your movie website should have at least these:
 
@@ -19,15 +19,15 @@ You can create more features but your movie website should have at least these:
 - The website should have a dark and light mode which the user can switch between by clicking on a button or icon.
 - The user should be able to search for movies/tv shows. You don't need to have a separate page to show the results. You can show it on the homepage depending on your design.
 
-## Pages
+## Pages 📄
 
 You can create more pages but your movie website should have at least these:
 
 - **Homepage** - Your homepage should display trending movies and TV shows of the day. There should also be
 - **About** - Information about your movie website.
 
-## Presentation
+## Presentation 📽️
 
-Each student needs to present their project for at least 10 minutes. Explain your choice of design and show off all your features and pages.
+Each student needs to present their project for at least 10 minutes. Present and explain your Figma design and show off all your features and pages.
 
 *Good luck!*
